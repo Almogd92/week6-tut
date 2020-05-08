@@ -1,3 +1,8 @@
+pre:
+	terraform validate
+	terraform fmt
+	terraform plan
+
 vali:
 	terraform validate
 
